@@ -1,6 +1,6 @@
 ignorowany.txt
 
 #ca³y katalog
-/tmp
+/tmp/*
 #ale bez tego pliku
 !/tmp/kuku.txt
